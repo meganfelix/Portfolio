@@ -16,3 +16,14 @@ Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administr
 
 #### Project #1
 description
+
+#### Cerfications
+LinkedIn:
+- Learning R
+- Data Storytelling Basics
+- Power BI Essential Training
+- Getting Started with Power BI
+- Excel for Business Analyst
+- Excel: Sales Forecasting
+- Machine Learning with Scikit-Learn
+- Machine Learning with Python Foundations
