@@ -1,4 +1,14 @@
-# Megan Felix - Data Analyst Porfolio
+# Megan Felix - Data Analyst / Data Scientist Porfolio
 
 ### About
-Hi, I'm Megan Felix! I recently graduated from San Jose State University with a B.S. in Business Adminstration with a concentration in Business Analytics.
+Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administration with a focus on business analytics. My aim with this portfolio is to record and exhibit all of my technical abilities. Like any other data nerd, I want to uncover the narrative hidden inside the data and derive meaningful conclusions.
+
+### My Toolbox
+- R
+- Excel
+- PowerBi
+- Tableau
+- Python
+- SQL
+
+### Projects
