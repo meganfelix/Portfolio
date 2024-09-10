@@ -1,9 +1,9 @@
 # Megan Felix - Data Analyst / Data Scientist Porfolio
 
-### About
+## About
 Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administration with a focus on business analytics. My aim with this portfolio is to record and exhibit all of my technical abilities. Like any other data nerd, I want to uncover the narrative hidden inside the data and derive meaningful conclusions.
 
-### My Toolbox
+## My Toolbox
 
 - R
 - Excel
@@ -12,15 +12,15 @@ Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administr
 - Python
 - SQL
 
-### Projects
+## Projects
 
-#### Project #1
+### Project #1
 description
 
-### Certifications
+## Certifications
 Links to certificates are available on my LinkedIn profile.
 
-#### LinkedIn:
+### LinkedIn:
 - Learning R
 - Data Storytelling Basics
 - Power BI Essential Training
