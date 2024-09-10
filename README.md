@@ -7,7 +7,7 @@ Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administr
 
 - R
 - Excel
-- PowerBi
+- Power BI
 - Tableau
 - Python
 - SQL
