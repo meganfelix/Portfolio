@@ -18,6 +18,8 @@ Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administr
 description
 
 #### Certifications
+Links to certificates are available on my LinkedIn profile.
+
 LinkedIn:
 - Learning R
 - Data Storytelling Basics
