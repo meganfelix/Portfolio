@@ -14,28 +14,28 @@ Hi, I'm Megan Felix. I recently earned a bachelor's degree in business administr
 ## Projects
 
 ### Apple Financial Analysis Project
-#### March 2024 - May 2024
-Diving into Apple's past quarterly income statement to forecast for the future and to help provide recommendations for company to proceed into the income fiscal year with the goal of increasing sales.
-
-Tools: Excel (pivot tables, calculate seasonality & standardized revenue data, & data visualizations)
+**March 2024 - May 2024**  
+**Code:**   
+**Description:** Diving into Apple's past quarterly income statement to forecast for the future and to help provide recommendations for company to proceed into the income fiscal year with the goal of increasing sales.  
+**Tools:** Excel (pivot tables, calculate seasonality & standardized revenue data, & data visualizations)
 
 ### Global Pairwise Alignment Project
-#### October 2023 - December 2023
-Utilizing Python to create pairwise sequence alignment between any 2 DNA sequence demonstating how analytics can apply in the biology field.
-
-Tools: Python (Heatmap, matrix)
+**October 2023 - December 2023**    
+**Code:**   
+**Description:** Utilizing Python to create pairwise sequence alignment between any 2 DNA sequence demonstating how analytics can apply in the biology field.  
+**Tools:** Python (Heatmap, matrix)
 
 ### Water Quality Project
-#### April 2023 - May 2023
-Project aims to analyze bodies of water across the U.S., forecast water quality based on 9 key constituents enhancing our understanding of water safety and contaminant detection. Utilizing R and machine learning models in practice.
+**April 2023 - May 2023**    
+**Code:**   
+**Description:** Project aims to analyze bodies of water across the U.S., forecast water quality based on 9 key constituents enhancing our understanding of water safety and contaminant detection. Utilizing R and machine learning models in practice.  
+**Tools:** R Studio (logistic regression, random forest, and classification trees)
 
-Tools: R Studio (logistic regression, random forest, and classification trees)
-
-### Homelessness Project
-#### April 2022 - May 2022
-After COVID-19, there became increasing reports of homelessness throughout U.S. This project seeks to investigating homelessness problem within 3 states in the West and how/if COVID-19 had an impact on them.
-
-Tools: Excel, R Studio (descriptive statistics, data visualization, and ANOVA)
+### Homelessness Project  
+**April 2022 - May 2022**  
+**Code:**  
+**Description:** After COVID-19, there became increasing reports of homelessness throughout U.S. This project seeks to investigating homelessness problem within 3 states in the West and how/if COVID-19 had an impact on them.  
+**Tools:** Excel, R Studio (descriptive statistics, data visualization, and ANOVA)
 
 ## Certifications
 Links to certificates are available on my LinkedIn profile.
